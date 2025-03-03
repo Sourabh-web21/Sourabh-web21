@@ -87,7 +87,7 @@ I believe in building solutions that not only solve problems but also create gre
 ### 📝 My Projects
 
 Feel free to explore the projects I am working on:
-
+- [Dialogic](https://github.com/WebDevHarsha/Dialogic-AI)
 - [TechMate](https://github.com/sourabh-web-21/TechMate) - A web app to manage tech projects.
 - [EduVault](https://eduvault-website-link) - A book-finding website for higher studies.
 
