@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a final-year student and passionate developer focused on building intuitive user interfaces, analyzing data with machine learning, and solving real-world problems.
+I’m a third-year student and passionate developer focused on building intuitive user interfaces, analyzing data with machine learning, and solving real-world problems.
 
 - 🛠️ **Intern @ TTL Technologies** – Worked on Number Plate Reading tools and CNN based projects
 - 🤖 **Machine Learning Projects** – SEO & trend analysis using real-time APIs
