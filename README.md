@@ -1,104 +1,104 @@
-# Hi 👋, I'm Sourabh
+# 👋 Hi, I'm Sourabh Agarwal
 
-### A passionate Frontend Developer from India
+🌐 **Frontend Developer | ML Enthusiast | Tech Explorer**  
+📍 Based in India
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://linkedin.com/in/sourabh-agarwal)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://instagram.com/dnx_star21)
 ![Profile Views](https://komarev.com/ghpvc/?username=sourabh-web21&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-### 🔭 I’m currently working on [EduVault](https://eduvault-website-link) - A Book Finding Website for Higher Studies
+## 🚀 About Me
 
-### 📫 How to reach me: **sourabh.agarwal2023@vitstudent.ac.in**
+I’m a final-year student and passionate developer focused on building intuitive user interfaces, analyzing data with machine learning, and solving real-world problems.
 
-### ⚡ Fun fact: **I can code in my sleep... almost!** 😄
-
----
-
-### Connect with me:
-
-- [LinkedIn](https://linkedin.com/in/sourabh-agarwal)
-- [Instagram](https://instagram.com/dnx_star21)
+- 🛠️ **Intern @ TTL Technologies** – Working on full-stack internal tools
+- 🤖 **Machine Learning Projects** – SEO & trend analysis using real-time APIs
+- 🌐 **Frontend Focused** – Clean UIs, animations, and responsive design
+- 📚 **Always Learning** – From JavaScript to neural networks
 
 ---
 
-### Languages and Tools:
+## 🔥 Featured Projects
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+### 📊 Competitor Analyzer (ML + SEO)
+> Analyze search trends, keyword volumes, and competitors using Google Trends + SerpAPI.
+
+[🔗 View Repo](https://github.com/Sourabh-web21/Competitor-Analyser)
+
+- Built with Python, Gradio, Selenium, and Matplotlib
+- Uses AI and scraping to compare keyword interest
+- Designed for marketers, students, and SEOs
+
+---
+
+### 🎓 YouTube Teacher Website
+> A platform that connects educators with students through curated YouTube content.
+
+[🔗 View Repo](https://github.com/Sourabh-web21/YouTube-Teacher)
+
+- Built with HTML, CSS, and JavaScript
+- Features course discovery and video indexing
+- Fully responsive design for students and teachers
+
+---
+
+### 📚 EduVault (In Progress)
+> A smart search engine to find university-level textbooks and study resources.
+
+[🔗 Link coming soon]
+
+- Search by ISBN, title, or subject
+- Scrapes open access libraries and Google Books API
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+**Tools & Frameworks**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat)
+
+**Other**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-web21&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-web21&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌱 Currently Learning
 
-#### Most Used Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-web21&show_icons=true&locale=en&layout=compact)
-
-#### My GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh-web21&show_icons=true&locale=en)
-
-#### GitHub Streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourabh-web21&)
+- Node.js & Express
+- MongoDB for backend storage
+- Advanced data visualization and NLP
 
 ---
 
-### 🚀 About Me
+## 🤝 Let's Collaborate
 
-I am a **Frontend Developer** based in **India**, passionate about creating engaging, user-friendly, and efficient web applications. I specialize in technologies like **HTML**, **CSS**, **JavaScript**, and **React**. I am constantly learning new tools and technologies to improve my skills and contribute to the open-source community. 
+If you're working on **AI for education**, **open source projects**, or **developer tools**, I'd love to hear from you.
 
-I believe in building solutions that not only solve problems but also create great user experiences.
-
----
-
-### 🌱 Currently Learning
-
-- **Node.js**
-- **Web Development Frameworks**
-  
----
-
-### ✅ Learned
-
-- **React.js**
-- **Advanced JavaScript**
+📫 **Reach me at:** `sourabh.agarwal2023@vitstudent.ac.in`
 
 ---
 
-### 📝 My Projects
+> _“Code is not just syntax — it's how we bring ideas to life.”_
 
-Feel free to explore the projects I am working on:
-- [Dialogic](https://github.com/WebDevHarsha/Dialogic-AI) - A Chatbot based on new and innovative Socratic method of thinking and asking questions.
-- [TechMate](https://github.com/Sourabh-web21/TechMate_)- A web app to manage tech projects.
-- [EduVault](https://eduvault-website-link) - A book-finding website for higher studies.
-
----
-
-### 🔧 I’m Open to Collaboration
-
-I'm always open to collaborating on interesting projects. Feel free to reach out if you think we can work on something cool together! 💡
-
----
-
-### 💡 Fun Fact
-
-I love learning new things, and if I’m not coding, you’ll find me reading tech books, exploring new trends, or experimenting with creative side projects. 🚀
