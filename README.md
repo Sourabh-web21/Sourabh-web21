@@ -4,7 +4,7 @@
 📍 Based in India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://linkedin.com/in/sourabh-agarwal)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://instagram.com/dnx_star21)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://www.instagram.com/its_sourabh.ig)
 ![Profile Views](https://komarev.com/ghpvc/?username=sourabh-web21&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -44,22 +44,14 @@ I’m a final-year student and passionate developer focused on building intuitiv
 
 ---
 
-### 📚 EduVault (In Progress)
-> A smart search engine to find university-level textbooks and study resources.
 
-[🔗 Link coming soon]
-
-- Search by ISBN, title, or subject
-- Scrapes open access libraries and Google Books API
-
----
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 **Tools & Frameworks**  
