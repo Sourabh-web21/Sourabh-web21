@@ -3,8 +3,8 @@
 🌐 **Frontend Developer | ML Enthusiast | Tech Explorer**  
 📍 Based in India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://linkedin.com/in/sourabh-agarwal)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://www.instagram.com/its_sourabh.ig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://linkedin.com/in/sourabh-agarwal)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://www.instagram.com/its_sourabh.ig)  
 ![Profile Views](https://komarev.com/ghpvc/?username=sourabh-web21&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -13,38 +13,49 @@
 
 I’m a third-year student and passionate developer focused on building intuitive user interfaces, analyzing data with machine learning, and solving real-world problems.
 
-- 🛠️ **Intern @ TTL Technologies** – Worked on Number Plate Reading tools and CNN based projects
-- 🤖 **Machine Learning Projects** – SEO & trend analysis using real-time APIs
-- 🌐 **Frontend Focused** – Clean UIs, animations, and responsive design
-- 📚 **Always Learning** – From JavaScript to neural networks
+- 🛠️ **Intern @ TTL Technologies** – Worked on Number Plate Reading tools and CNN-based projects  
+- 🤖 **Machine Learning Projects** – SEO & trend analysis using real-time APIs  
+- 🌐 **Frontend Focused** – Clean UIs, animations, and responsive design  
+- 📚 **Always Learning** – From JavaScript to neural networks  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📊 Competitor Analyzer (ML + SEO)
-> Analyze search trends, keyword volumes, and competitors using Google Trends + SerpAPI.
+
+
+### 📊 Competitor Analyzer (ML + SEO)  
+> Analyze search trends, keyword volumes, and competitors using Google Trends + SerpAPI
 
 [🔗 View Repo](https://github.com/Sourabh-web21/Competitor-Analyser)
 
-- Built with Python, Gradio, Selenium, and Matplotlib
-- Uses AI and scraping to compare keyword interest
-- Designed for marketers, students, and SEOs
+- Built with Python, Gradio, Selenium, and Matplotlib  
+- Uses AI and scraping to compare keyword interest  
+- Designed for marketers, students, and SEOs  
 
 ---
 
-### 🎓 YouTube Teacher Website
-> A platform that connects educators with students through curated YouTube content.
+### 🎓 YouTube Teacher Website  
+> A platform that connects educators with students through curated YouTube content
 
 [🔗 View Repo](https://github.com/Sourabh-web21/YouTube-Teacher)
 
-- Built with HTML, CSS, and JavaScript
-- Features course discovery and video indexing
-- Fully responsive design for students and teachers
+- Built with HTML, CSS, and JavaScript  
+- Features course discovery and video indexing  
+- Fully responsive design for students and teachers  
 
 ---
+### 💻 TechMate – Laptop Recommendation System  
+> Content-based ML system to suggest laptops based on user preferences
 
+[🔗 View Repo](https://github.com/Sourabh-web21/Techmate_)
 
+- Built with Python and pandas  
+- Recommends laptops based on brand, RAM, storage, processor, etc.  
+- Content-filtering logic using similarity score  
+- Future-ready for NLP query parsing and e-commerce integration  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -78,9 +89,9 @@ I’m a third-year student and passionate developer focused on building intuitiv
 
 ## 🌱 Currently Learning
 
-- Node.js & Express
-- MongoDB for backend storage
-- Advanced data visualization and NLP
+- Node.js & Express  
+- MongoDB for backend storage  
+- Advanced data visualization and NLP  
 
 ---
 
@@ -93,4 +104,3 @@ If you're working on **AI for education**, **open source projects**, or **develo
 ---
 
 > _“Code is not just syntax — it's how we bring ideas to life.”_
-
