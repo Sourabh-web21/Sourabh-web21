@@ -38,7 +38,7 @@ I’m a third-year student and passionate developer focused on building intuitiv
 ### 🎓 YouTube Teacher Website  
 > A platform that connects educators with students through curated YouTube content
 
-[🔗 View Repo](https://github.com/Sourabh-web21/YouTube-Teacher)
+[🔗 View Repo](https://github.com/Sourabh-web21/YouTube_Teach_Platform)
 
 - Built with HTML, CSS, and JavaScript  
 - Features course discovery and video indexing  
