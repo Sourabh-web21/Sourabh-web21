@@ -10,13 +10,14 @@
 ---
 ## 🏅 Badges
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/sourabh-web21?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/sourabh-web21?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=sourabh-web21&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourabh-web21&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🚀 About Me
