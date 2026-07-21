@@ -1,117 +1,99 @@
-# 👋 Hi, I'm Sourabh Agarwal
+<div align="center">
 
-🌐 **Frontend Developer | ML Enthusiast | Tech Explorer**  
-📍 Based in India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd-Year+Student+%40+VIT;Frontend+Developer+%7C+ML+Enthusiast;Intern+%40+TTL+Technologies;Building+Clean+UIs+%26+ML-Powered+Tools)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue)](https://linkedin.com/in/sourabh-agarwal)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat&labelColor=E4405F)](https://www.instagram.com/its_sourabh.ig)  
-
+</div>
 
 ---
-## 🏅 Badges
+
+## About Me
+
+- 3rd-Year Student, passionate about building intuitive user interfaces and solving real-world problems with machine learning
+- Interned at **TTL Technologies** — worked on Number Plate Reading tools and CNN-based projects
+- Frontend-focused developer with a strong interest in clean UIs, animations, and responsive design
+- Building **ML projects** around SEO & trend analysis using real-time APIs
+- Always learning — from JavaScript to neural networks
+- 📫 Reach me at: [sourabh.agarwal2023@vitstudent.ac.in](mailto:sourabh.agarwal2023@vitstudent.ac.in)
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### ML / Automation Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| **Competitor Analyzer** | Python · Gradio · Selenium · Matplotlib | ML + SEO tool analyzing search trends, keyword volumes & competitors via Google Trends and SerpAPI |
+| **YouTube Teacher Website** | HTML · CSS · JavaScript | Platform connecting educators with students through curated, indexed YouTube content; fully responsive |
+| **TechMate – Laptop Recommendation System** | Python · Pandas | Content-based ML system recommending laptops via similarity scoring on brand, RAM, storage & processor |
+
+---
+
+## Currently Learning
+
+- Node.js & Express
+- MongoDB for backend storage
+- Advanced data visualization and NLP
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-web21&theme=tokyonight&hide_border=true&hide=longest_streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-web21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourabh-web21&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub followers](https://img.shields.io/github/followers/sourabh-web21?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/sourabh-web21?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=sourabh-web21&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourabh-web21&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## 🚀 About Me
-
-I’m a third-year student and passionate developer focused on building intuitive user interfaces, analyzing data with machine learning, and solving real-world problems.
-
-- 🛠️ **Intern @ TTL Technologies** – Worked on Number Plate Reading tools and CNN-based projects  
-- 🤖 **Machine Learning Projects** – SEO & trend analysis using real-time APIs  
-- 🌐 **Frontend Focused** – Clean UIs, animations, and responsive design  
-- 📚 **Always Learning** – From JavaScript to neural networks  
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## Connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-agarwal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_sourabh.ig)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabh.agarwal2023@vitstudent.ac.in)
 
-### 📊 Competitor Analyzer (ML + SEO)  
-> Analyze search trends, keyword volumes, and competitors using Google Trends + SerpAPI
-
-[🔗 View Repo](https://github.com/Sourabh-web21/Competitor-Analyser)
-
-- Built with Python, Gradio, Selenium, and Matplotlib  
-- Uses AI and scraping to compare keyword interest  
-- Designed for marketers, students, and SEOs  
+</div>
 
 ---
 
-### 🎓 YouTube Teacher Website  
-> A platform that connects educators with students through curated YouTube content
+<div align="center">
 
-[🔗 View Repo](https://github.com/Sourabh-web21/YouTube_Teach_Platform)
+*"Code is not just syntax — it's how we bring ideas to life."*
 
-- Built with HTML, CSS, and JavaScript  
-- Features course discovery and video indexing  
-- Fully responsive design for students and teachers  
-
----
-### 💻 TechMate – Laptop Recommendation System  
-> Content-based ML system to suggest laptops based on user preferences
-
-[🔗 View Repo](https://github.com/Sourabh-web21/Techmate_)
-
-- Built with Python and pandas  
-- Recommends laptops based on brand, RAM, storage, processor, etc.  
-- Content-filtering logic using similarity score  
-- Future-ready for NLP query parsing and e-commerce integration  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-**Tools & Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=flat)
-
-**Other**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-web21&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-web21&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Node.js & Express  
-- MongoDB for backend storage  
-- Advanced data visualization and NLP  
-
----
-
-## 🤝 Let's Collaborate
-
-If you're working on **AI for education**, **open source projects**, or **developer tools**, I'd love to hear from you.
-
-📫 **Reach me at:** `sourabh.agarwal2023@vitstudent.ac.in`
-
----
-
-> _“Code is not just syntax — it's how we bring ideas to life.”_
+</div>
