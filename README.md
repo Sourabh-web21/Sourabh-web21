@@ -15,10 +15,10 @@
 
 ## About Me
 
-- 3rd-Year Student at VIT, focused on building practical AI-powered applications
-- Frontend developer with strong interest in clean UI, animations, and responsive design
+- Final year Student at VIT, focused on building practical AI-powered applications
 - ML enthusiast building tools around document intelligence, search, automation, SEO, and recommendations
 - Interned at **TTL Technologies**, working on Number Plate Reading tools and CNN-based projects
+- Worked as a Freelancer to create multiple AI/ML pipelines and deploy to prodution
 - Currently building production-style desktop and web apps using React, Python, Tauri, and ML workflows
 - 📫 Reach me at: [sourabh.agarwal2023@vitstudent.ac.in](mailto:sourabh.agarwal2023@vitstudent.ac.in)
 
@@ -54,14 +54,9 @@ Download the latest desktop version from GitHub Releases:
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Frontend & App Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Backend & Databases
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
