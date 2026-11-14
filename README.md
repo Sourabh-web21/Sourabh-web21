@@ -9,6 +9,8 @@
   <a href="https://github.com/Sourabh-web21#js-contribution-activity">GitHub activity</a>
 </p>
 
+[![Animated isometric calendar of public commits](./contributions-3d.svg)](https://github.com/Sourabh-web21#js-contribution-activity)
+
 ### Projects
 
 | Project | What it does |
