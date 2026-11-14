@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./halftone-portrait.png" width="460" alt="Halftone portrait of Sourabh Agarwal in a suit">
-</p>
-
-<p align="center">
   <a href="https://sourabh2005.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sourabh-agarwal-41b13b301/">LinkedIn</a> ·
   <a href="mailto:sourabh.agarwal2023@vitstudent.ac.in">Email</a> ·
